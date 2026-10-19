@@ -158,7 +158,3 @@ Random Forest and Gradient Boosting were also tested. Gradient Boosting was the 
 De Cock, D. (2011). Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regression Project. *Journal of Statistics Education, 19*(3).
 
 Dataset available on Kaggle: House Prices - Advanced Regression Techniques.
-
-## 12. Author
-
-Christian Oersted Dominic Jeeva (Oersted12)
